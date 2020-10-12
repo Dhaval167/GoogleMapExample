@@ -357,7 +357,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
                 e.printStackTrace()
             }
             return result
-            d
+
         }
 
         override fun onPostExecute(result: List<List<LatLng>>) {
